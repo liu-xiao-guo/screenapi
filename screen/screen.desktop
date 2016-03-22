@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=screen
+Exec=screen
+Icon=screen/screen.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

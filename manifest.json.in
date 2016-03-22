@@ -1,0 +1,17 @@
+{
+    "name": "screen.liu-xiao-guo",
+    "description": "description of screen",
+    "architecture": "@CLICK_ARCH@",
+    "title": "screen",
+    "hooks": {
+        "screen": {
+            "apparmor": "screen/screen.apparmor",
+            "desktop":  "screen/screen.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
